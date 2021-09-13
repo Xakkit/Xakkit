@@ -11,7 +11,7 @@ Xakkit is a server software for Minecraft: Bedrock Edition and Minecraft: Java E
 
 ### Feature
  - [x] No Bug
- - [x] Full Gameplay (Redstone, MobAI, Multiworld, etc)
+ - [x] Full Gameplay
  - [x] Multiversion
  - [x] Free Lag
  - [x] Anti DDOS
